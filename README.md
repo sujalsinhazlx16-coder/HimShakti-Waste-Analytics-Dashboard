@@ -33,16 +33,27 @@ This repository contains the complete end-to-end analytics pipeline, exploratory
 ## 📁 Repository Structure
 
 ├── W1_ProjectBrief_TBI-26100855.pdf          # Initial Project Brief & Objectives
+
 ├── W2_EDA_Notebook_TBI-26100855.ipynb        # Python Exploratory Data Analysis
+
 ├── W2_SQLQueries_TBI-26100855.sql            # SQL Data Processing Queries
+
 ├── W3_Visualisations_TBI-26100855.ipynb      # Visualization Scripts
+
 ├── W4_CleanedData_TBI-26100855.csv           # Processed & Cleaned Q2 Dataset
+
 ├── W4_DashboardNarrative_TBI-26100855.pdf   # Looker Studio Dashboard Specs
+
 ├── W5_BIStrategyNote_TBI-26100855.pdf        # Strategic BI Alignment Note
+
 ├── W6_AIValidationLog_TBI-26100855.pdf       # AI Validation & Quality Control Audit
+
 ├── W6_InsightDeck_TBI-26100855.pdf           # Mid-Project Insight Presentation
+
 ├── W7_PromptLog_TBI-26100855.pdf             # Structured AI Prompt Engineering Log
+
 ├── W8_DataStoryDeck_TBI-26100855.pdf         # Executive Data Story Deck
+
 └── W9_BDCapstoneReport_TBI-26100855.pdf      # Final Capstone Report
 
 ---
